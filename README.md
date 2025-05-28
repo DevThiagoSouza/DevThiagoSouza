@@ -71,8 +71,7 @@ Sou movido por desafios e fascinado por boas práticas como testes automatizados
 ---
 
 ### ✨ Curiosidades
-
-- 😄 Pronomes: ele/dele  
+  
 - 🚀 Adoro aprender sobre tecnologias emergentes e arquiteturas escaláveis  
 - 🧠 Faço questão de entender o "por quê" por trás de cada solução  
 - 🎮 Curto games, sci-fi e animes no tempo livre  
