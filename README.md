@@ -82,7 +82,7 @@ Sou movido por desafios e fascinado por boas práticas como testes automatizados
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thiago-souza-692a94145/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-souza-692a94145/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:thiagu0101@gmail.com">
