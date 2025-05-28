@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Thiago Souza!</h1>
+<h1 align="center">Olá 👋, sou o Thiago Souza!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px">
