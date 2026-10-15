@@ -8,7 +8,7 @@
       <h2>Software Engineer | Software Architect</h2>
       <br>
       <p>
-        <b>Engenheiro de Software Sênior</b> especializado na arquitetura e desenvolvimento de <b>sistemas corporativos de alta disponibilidade</b>.
+        <b>Engenheiro de Software</b> especializado na arquitetura e desenvolvimento de <b>sistemas corporativos de alta disponibilidade</b>.
       </p>
       <p>
         Com sólida experiência na construção de <b>microsserviços performáticos</b>, <b>APIs escaláveis</b> e <b>soluções cloud-native</b>, atuo no ciclo completo de software, combinando engenharia robusta no back-end com interfaces modernas no front-end e mobile.
