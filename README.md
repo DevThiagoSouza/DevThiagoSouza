@@ -8,13 +8,16 @@
       <h2>Senior Software Engineer | Software Architect</h2>
       <br>
       <p>
-        Olá! Sou Thiago Souza, engenheiro de software especializado no desenvolvimento e arquitetura de sistemas corporativos de alta disponibilidade.<br>
-        Atuo na construção de microsserviços performáticos, APIs escaláveis e soluções cloud-native, unindo robustez no back-end com interfaces modernas no front-end e mobile.<br>
-        Pós-graduado em Arquitetura de Software pela FIAP, aplico no dia a dia princípios de Clean Architecture, Domain-Driven Design (DDD), testes e boas práticas de engenharia.<br>
-        Espero que goste do meu perfil! 🚀
+        <b>Engenheiro de Software Sênior</b> especializado na arquitetura e desenvolvimento de <b>sistemas corporativos de alta disponibilidade</b>.
+      </p>
+      <p>
+        Com sólida experiência na construção de <b>microsserviços performáticos</b>, <b>APIs escaláveis</b> e <b>soluções cloud-native</b>, atuo no ciclo completo de software, combinando engenharia robusta no back-end com interfaces modernas no front-end e mobile.
+      </p>
+      <p>
+        <b>Pós-graduado em Arquitetura de Software pela FIAP</b>, aplico continuamente padrões como <b>Clean Architecture</b>, <b>Domain-Driven Design (DDD)</b>, testes automatizados e boas práticas de engenharia de software.
       </p>
       <br>
-      <p>💻 Skills:</p>
+      <p><b>Principais Competências Técnicas:</b></p>
       <p>
         <img src="https://skillicons.dev/icons?i=java,spring,go,cs,dotnet,aws,docker,kubernetes,kafka,postgres,react,flutter,git,github,postman&perline=9" />
       </p>
