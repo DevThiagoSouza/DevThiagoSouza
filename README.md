@@ -5,7 +5,7 @@
     </td>
     <td width="55%">
       <h1>Thiago Souza</h1>
-      <h2>Senior Software Engineer | Software Architect</h2>
+      <h2>Software Engineer | Software Architect</h2>
       <br>
       <p>
         <b>Engenheiro de Software Sênior</b> especializado na arquitetura e desenvolvimento de <b>sistemas corporativos de alta disponibilidade</b>.
