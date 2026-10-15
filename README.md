@@ -1,8 +1,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center">
-      <!-- Imagem atualizada para o arquivo fundo.png -->
-      <img src="./fundo.png" width="100%" alt="Developer Illustration" />
+      <img src="https://raw.githubusercontent.com/DevThiagoSouza/Portifolio/main/public/assets/img/fundo.png" width="100%" alt="Thiago Souza Illustration" />
     </td>
     <td width="55%">
       <h1>Thiago Souza</h1>
