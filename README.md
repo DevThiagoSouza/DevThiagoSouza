@@ -27,7 +27,7 @@
           <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="mailto:contato.thiagosouza@hotmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=hotmail&logoColor=white"/>
+          <img src="https://img.shields.io/badge/HOTMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
         </a>
         <a href="https://www.linkedin.com/in/thiago-souza-692a94145/" target="_blank">
           <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
